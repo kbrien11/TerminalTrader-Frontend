@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://kbrien11.github.io/TerminalTrader-Frontend/",
   "dependencies": {
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "moment": "^2.24.0",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.9.0",
